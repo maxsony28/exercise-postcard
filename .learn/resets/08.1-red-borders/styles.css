@@ -1,0 +1,12 @@
+.border {
+	border: 1px solid red;
+}
+
+body {
+	background: black;
+}
+
+* {
+	border: 1px dashed red;
+	min-height: 10px;
+}
