@@ -3,8 +3,8 @@
 	min-height: 10px;
 }*/
 body {
-	background: black;
-	
+	background: white;
+
 }
 
 .postcard{
@@ -14,6 +14,7 @@ body {
 	margin: auto;
 	padding: 10px;
 	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	border: 10px solid black;
 }
 .postcard-header {
 	display: flex;	
